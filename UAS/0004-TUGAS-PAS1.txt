@@ -1,0 +1,33 @@
+Script started on Tue 09 Jun 2020 03:08:07 AM WIB
+hanrichie@badak:~$ PS1="$ "
+$ echo $GitHubUser
+hanrichie
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200609-030840-8496-hanrichie/>
+$ PS1="\$(eval \$PSTAMP)"
+200609-030845-f86c-hanrichie/> echo "$CEKSAYA"
+hanrichie ZCZCSCRIPTSTART 200606-001954 hanrichie
+hanrichie hanrichie 200606-001954-7f89-hanrichie/ 200606-001954 SEQOK SUMOK 7f89a55f
+hanrichie hanrichie 200606-001955-aff9-hanrichie/ 200606-001955 SEQOK SUMOK aff9aef6
+hanrichie hanrichie 200606-001957-a13b-hanrichie/ 200606-001957 SEQOK SUMOK a13b6ac0
+hanrichie hanrichie 200606-002003-b50a-hanrichie/ 200606-002003 SEQOK SUMOK b50a87fe
+hanrichie ZCZCSCRIPTSTOP 200606-002007 SEQOK
+200609-030859-0f91-hanrichie/> echo "$CEKSEBELA1"
+hanrichie ZCZCSCRIPTSTART 200530-122830 HaroldHS16
+hanrichie HaroldHS16 200530-122929-1348-harold.hotma/ 200530-122929 SEQOK SUMOK 1348cdaa
+hanrichie HaroldHS16 200530-122944-2715-harold.hotma/ 200530-122944 SEQOK SUMOK 27155051
+hanrichie HaroldHS16 200530-122954-d72c-harold.hotma/ 200530-122954 SEQOK SUMOK d72c9854
+hanrichie ZCZCSCRIPTSTOP 200530-123005 SEQOK
+200609-030908-0169-hanrichie/> echo "$CEKSEBELA2"
+hanrichie ZCZCSCRIPTSTART 200606-115002 hasanahnur303
+hanrichie hasanahnur303 200606-115046-ca5e-nur.fauziah81/ 200606-115046 SEQOK SUMOK ca5ef5dd
+hanrichie hasanahnur303 200606-115058-10b7-nur.fauziah81/ 200606-115058 SEQOK SUMOK 10b7f0d7
+hanrichie hasanahnur303 200606-115106-347f-nur.fauziah81/ 200606-115106 SEQOK SUMOK 347fa162
+hanrichie hasanahnur303 200606-115117-9cb9-nur.fauziah81/ 200606-115117 SEQOK SUMOK 9cb9ef8a
+hanrichie ZCZCSCRIPTSTOP 200606-115122 SEQOK
+200609-030914-0c3f-hanrichie/> exit
+exit
+
+Script done on Tue 09 Jun 2020 03:09:17 AM WIB
