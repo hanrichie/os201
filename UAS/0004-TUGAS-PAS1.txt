@@ -1,13 +1,13 @@
 Script started on Tue 09 Jun 2020 03:08:07 AM WIB
-hanrichie@badak:~$ PS1="$ "
-$ echo $GitHubUser
+]0;hanrichie@badak: ~hanrichie@badak:~$ exitcho "$CEKSAYA"PS1="\$(eval \$PSTAMP)"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Peval $PSTAMPcho[C[C[C[C[C[C[C[CGitHubUser[8PPS1="$ "echo "200606-115106-hasanahnur303-nur.fauziah81" | sha1sum[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CPS1="$ "[Kecho $GitHubUser[8PPS1="$ "
+$ PS1="$ "[C[C[4Pexit[C[CPS1="$ "[C[C[KPS1="$ "[C[C[4Pexitcho "$CEKSAYA"[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[CGitHubUser[C[C[8PPS1="$ "[C[Cecho $GitHubUser
 hanrichie
-$ echo $PSTAMP
+$ echo $GitHubUser[C[C[8PPS1="$ "[C[C[4Pexitcho "$CEKSAYA"[C[CPS1="\$(eval \$PSTAMP)"[C[C[8Pecho "$CEKSAYA"[C[C[Cxit[Kcho "$CEKSAYA"[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[CGitHubUser[C[C[8PPS1="$ "[C[Cecho "200606-115106-hasanahnur303-nur.fauziah81" | sha1sum[C[CPS1="$ "[K[C[Cecho $GitHubUser[C[C[C[C[C[C[C[C[4PPSTAMP
 TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
-$ eval $PSTAMP
-200609-030840-8496-hanrichie/>
-$ PS1="\$(eval \$PSTAMP)"
-200609-030845-f86c-hanrichie/> echo "$CEKSAYA"
+$ echo $PSTAMPGitHubUser[C[C[8PPS1="$ "[C[C[4Pexitcho "$CEKSAYA"[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP
+200609-030840-8496-hanrichie/> 
+$ eval $PSTAMP[C[C[Ccho[C[C[C[C[C[C[C[CGitHubUser[C[C[8PPS1="$ "[C[C[4Pexitcho "$CEKSAYA"[C[CPS1="\$(eval \$PSTAMP)"[C[C[11Peval $PSTAMP[C[CPS1="\$(eval \$PSTAMP)"
+200609-030845-f86c-hanrichie/> PS1="\$(eval \$PSTAMP)"[11Peval $PSTAMPcho[C[C[C[C[C[C[C[Cval[C[C[C[C[C[C[C[Ccho[C[C[C[C[C[C[C[Cval[C[C[C[C[C[C[C[CPS1="\$(eval \$PSTAMP)"[Kecho "$CEKSAYA"
 hanrichie ZCZCSCRIPTSTART 200606-001954 hanrichie
 hanrichie hanrichie 200606-001954-7f89-hanrichie/ 200606-001954 SEQOK SUMOK 7f89a55f
 hanrichie hanrichie 200606-001955-aff9-hanrichie/ 200606-001955 SEQOK SUMOK aff9aef6
