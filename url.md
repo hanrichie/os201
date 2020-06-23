@@ -1,3 +1,7 @@
+---
+permalink: /URLs/
+---
+
 # URLs
 Link penting untuk belajar OS:
 * http://os.vlsm.org
@@ -5,4 +9,6 @@ Link penting untuk belajar OS:
 * https://www.learn-c.org/
 * https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
-Kembali ke halaman utama: [**Halaman Utama**](https://hanrichie.github.io/os201/)
+Klik link ini untuk menuju link berikut:
+1. [**Home**](https://hanrichie.github.io/os201/)
+2. [**URLs**](https://hanrichie.github.io/os201/URLs)
