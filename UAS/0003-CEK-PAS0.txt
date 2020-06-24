@@ -1,5 +1,5 @@
 Script started on Mon 08 Jun 2020 01:57:18 PM WIB
-hanrichie@badak:~$ PS1="$ "
+]0;hanrichie@badak: ~hanrichie@badak:~$ PS1="$ "
 $ echo $GitHubUser
 hanrichie
 $ echo $PSTAMP
@@ -16,7 +16,7 @@ You need a passphrase to unlock the secret key for
 user: "Hanrichie (This is a random comment.) <hanrichie55@gmail.com>"
 4096-bit RSA key, ID 7059A520, created 2020-02-23
 
-200608-135825-50fa-hanrichie/> gpg2 --verify SHA1SUM.asc
+[?1049h[1;44r(B[m[4l[?7h[?1h=[39;49m[39;49m[H[2J(B[m[17;52H(0[0mlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk(B(B[m[18;52H(0[0mx(B[0m Please enter the passphrase to unlock the secret key for the OpenPGP certificate:  (0[0mx(B(B[m[19;52H(0[0mx(B[0m "Hanrichie (This is a random comment.) <hanrichie55@gmail.com>"[19;137H(0[0mx(B(B[m[20;52H(0[0mx(B[0m 4096-bit RSA key, ID 7059A520,[20;137H(0[0mx(B(B[m[21;52H(0[0mx(B[0m created 2020-02-23.[21;137H(0[0mx(B(B[m[22;52H(0[0mx(B(B[m[22;137H(0[0mx(B(B[m[23;52H(0[0mx(B(B[m[23;137H(0[0mx(B(B[m[24;52H(0[0mx(B[0m Passphrase _______________________________________________________________________ (0[0mx(B(B[m[25;52H(0[0mx(B(B[m[25;137H(0[0mx(B(B[m[26;52H(0[0mx(B(B[m[26;65H(0[0m(B[0m<OK>[26;119H<Cancel>[26;137H(0[0mx(B(B[m[27;52H(0[0mmqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqj(B(B[m[24;65H(0[0m(B(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m*(B[m[44;1H[?1049l[?1l>200608-135825-50fa-hanrichie/> gpg2 --verify SHA1SUM.asc
 gpg: assuming signed data in 'SHA1SUM'
 gpg: Signature made Mon 08 Jun 2020 01:58:24 PM WIB using RSA key ID 7059A520
 gpg: Good signature from "Hanrichie (This is a random comment.) <hanrichie55@gmail.com>" [ultimate]
